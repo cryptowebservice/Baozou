@@ -24335,7 +24335,7 @@ const Ak = () => {
                   u.jsxs("div", {
                     className: e(C.link, C.howtogetLink, C.mobileLink),
                     style: { flexDirection: "column" },
-                    onClick: () => window.open(c0, "_blank"),
+                    onClick: () => window.open(c0, "none"),
                     children: [
                       u.jsx(x1, {
                         variant: "h3",
