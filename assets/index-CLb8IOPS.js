@@ -24257,7 +24257,7 @@ const Ak = () => {
               }),
               u.jsxs("div", {
                 className: e(C.link, C.howtogetLink),
-                onClick: () => window.open(c0, "_blank"),
+                onClick: () => window.open(c0, "none"),
                 children: [
                   u.jsx(x1, {
                     variant: "h5",
@@ -25239,7 +25239,7 @@ const Bk = X3()(() => ({
                   className: C.stepContainer,
                   children: u.jsxs("div", {
                     className: e(C.step, "brownpaw"),
-                    onClick: () => window.open(c0, "_blank"),
+                    onClick: () => window.open(c0, "none"),
                     children: [
                       u.jsxs("div", {
                         style: { display: "flex", gap: "1rem" },
@@ -25356,7 +25356,7 @@ const Bk = X3()(() => ({
                   u.jsx("div", {
                     className: C.linkContainer,
                     style: { background: "#F6D396" },
-                    onClick: () => window.open(c0, "_blank"),
+                    onClick: () => window.open(c0, "none"),
                     children: u.jsxs("div", {
                       style: { position: "relative" },
                       children: [
