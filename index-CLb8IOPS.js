@@ -19480,7 +19480,7 @@ const T6 = "/words.png",
     "https://app.uniswap.org/swap/0x000000000000000",
   ci = "https://#dash/",
   lE = "https://instagram.com/#",
-  Dn = "https://t.me/baozoumanhuaerc",
+  Dn = "https://t.me/baozouerc",
   tc = "https://x.com/baozouerc20?s=21",
   o9 = "./whitepaper.pdf",
   uE =
