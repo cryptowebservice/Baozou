@@ -19470,7 +19470,7 @@ const T6 = "/words.png",
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARSSURBVHgB7Z2NUeMwEIWVmyuAEiiBEqAD6IAOgAqACqAD6AA6gA4oATqADnJaZuKRdXZW/35y3pvZuQsT/+nz7kpay9mYTG2tDDVoY2Uy9MdQUCIQMBEImKLjHXNGnGJzCj0ETAQCJgIBkxrfcnNGZrccTrkpVMsp9BAwEQiYCARM/8Uz5ow4lc4p9BAwEQiYCARMG+aMssrNKfQQMBEImAgETH9NpJgz9stvn9icQg8BE4GAiUDApOYQ5ow8xeaUJh7y8vLyeyIp9v39bY6Pj00LyXE+Pz9Hxz85OTFNtVUkX8m1o6Ojrb3Qbare3t6KnId2jh8fH6PjXl9fFz+OJnXqpFTIOj09NbZhh8+vr6/m5+dH3WbnHTc3N+bx8dHU0tPTk7m8vBw+39/fm7u7O1NaW60brBEzBe8O26DDfh8eHoLuWhuyhm1s+Ch+x4rd3t6OrlnOs8ZxApp72xSIH7qsB6jbnJ+fD9+XkCL7qAlDjlFy/9BAxATCTgInpIFjPSvUXNgx57MqICkNnOJZmtncNAqHsn/5W43rhQfiN7Dcqdo2KZ61D4Z7fAFTKz91AURMGsBtkFaha6oLbntX1a6zGyBitls5HMcOHqMbMyV0yXFcyTnUvMaugIi5g7GQgVhO6PJ7VK1hdAHETa7yb0hidUOXHdAlwQjxyIMEIiaesVPINIk/zaF1Cpbo3nYNRExA7BQSuvxOwZxnLdW97R5ISujSPGuqe7skjK6AhDTwlM151lT3NmS8QyCBDTxnc561dPd2NUD8mB8ygvY9SwaNiDC6BCLmz/CGbON6lqulurerAiLmhpyQaRLfs0RLdm9XByRlmsQNXQg9qlUBEUuZJnFDF1LuWAUQMdSy78ECyS37ouWR7oGIIZV9CSSxgWuUfQlkTwO3LvsSyIQtVfYlkBnzZ29DaydIoWs1QHwYO9Uu+xLIjPkPQu9Us+xLIDM2NXubUjuJKfsSyIztexC6VtmXQGbs6upqdC7+VHyNsi+BGP1uFs09nFCy7EsgMxb7pEipsi+BzDSW373VZmxLlH1bXV9XQHLW+aUs7FkidHUFRMYHrmILTM/Pz8O2sWXfVqGrGyAl1vnlln1rL2frBkjJdX4p0yTuAxW1y77wQGo8CI1c9oUGUutBaOSyLyyQ2uv8UMu+kEBarfNDLPtCAmn1IHTswh6x2rUTOCCt1/mhlX01NXv5jMjCGL3QRV5Ac3FxYWrLjjWMbdjf/399fZn39/e937fQjPWm4fPZ2Zm6TaiU5jbNPGTpdX5zT8eHqOS5qu2tfqHASSCs85t6Oj5GpZY1aGoasig9ZKnvXPR3QEBx0gD44ltJwUQgYCIQMEW/+505Zb9ic4YvegiYCARMBAIm/o5hpnJzBn/HEFwEAiYCARN/Tz1SpXOGL3oImAgETAQCpugAn5tTDk2byCRKDwETgYCJQMCUPUhgThlrkznwooeAiUDARCBg+gcNV2johC2rTQAAAABJRU5ErkJggg==",
   aE = "info@Baozou.com",
   l0 =
-    "#tokenomics",
+    "#roadmap",
   ui = "https://coinsult.net/",
   E8 = "0x000000000000000",
   u0 =
@@ -23161,7 +23161,7 @@ const Cw = "ABOUT",
   ew = "WHITEPAPER",
   tw = "ROADMAP",
   nw = "NFT",
-  rw = "TOKENOMICS",
+  rw = "ROADMAP",
   ow = "Buy On Uniswap",
   iw = "$Baozou Contract Address",
   sw = "JOIN COMMUNITY",
@@ -24220,12 +24220,12 @@ const Ak = () => {
               }),
               u.jsxs("div", {
                 className: C.link,
-                onClick: () => (window.location.href = `#${e3.roadmap}`),
+                onClick: () => (window.location.href = `#${e3.tokenomics}`),
                 children: [
                   u.jsx(x1, {
                     variant: "h5",
                     fontFamily: "'Nunito'",
-                    children: i("ROADMAP"),
+                    children: i("TOKENOMICS"),
                   }),
                   u.jsx(gi, {}),
                 ],
