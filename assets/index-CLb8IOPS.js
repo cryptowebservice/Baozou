@@ -23362,7 +23362,7 @@ const Cw = "ABOUT",
   ZL = "得到",
   WL = "观看本教程！",
   KL = "粉色促销",
-  GL = "在 RAYDIUM 上购买",
+  GL = "在 UNISWAP 上购买",
   QL = "在木星上购买",
   YL = "$Baozou 索尔",
   XL =
@@ -24180,8 +24180,7 @@ const Ak = () => {
       { t: i } = L2(),
       s = [
         { code: "en", name: "English", flag: _E },
-        { code: "zh", name: "Chinese", flag: kE },
-        { code: "pt", name: "Portuguese", flag: PE },
+        { code: "zh", name: "Chinese", flag: kE }, 
       ],
       a = (l) => {
         o(l), W1.changeLanguage(l);
