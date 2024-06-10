@@ -23172,7 +23172,7 @@ const Cw = "ABOUT",
   dw = "BUY ON Uniswap",
   fw = "About $Baozou ",
   pw =
-    "Baozou Manhua (translated as rage comics) is a website created in 2008 by Wang Nima. It features Chinese webcomics that are characterized by their black-and-white, crudely drawn style. Inspired by American rage comics, Baozou Manhua incorporates distinctly Chinese elements. These comics humorously depict the everyday frustrations of life, often ending with a darkly comedic twist.ctly Chinese elements.",
+    "Baozou Manhua (translated as rage comics) is a website created in 2008 by Wang Nima. It features Chinese webcomics that are characterized by their black-and-white, crudely drawn style. Inspired by American rage comics, Baozou Manhua incorporates distinctly Chinese elements. These comics humorously depict the everyday frustrations of life, often ending with a darkly comedic twist.",
   hw = " ",
   mw =
     " ",
